@@ -70,7 +70,7 @@ After that we split the data into train, valid and test. And now it's time to tr
   <img width="460" height="300" src="Images/speed.png">
 </p>
 
-I have trained the model with GPU with 300 epochs and a batch size of 20 which took somewhere around 3 hours.
+I have trained the model using GPU with 300 epochs and a batch size of 20 which took somewhere around 3 hours.
 
 _For more information, please refer to the [Documentation](https://github.com/rkuo2000/yolov5)_
 
